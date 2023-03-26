@@ -1,2 +1,2 @@
 # SO2
-#Test
+To run bash scripts locally it might be needed to run "dos2unix file_name" in order to run script properly. Default formatting of vs code is getting into conflict with wsl vs code settings.
